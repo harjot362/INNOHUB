@@ -1,0 +1,214 @@
+InnoHub - We're available for marketing
+
+#---------- HEADER ----------#
+
+InnoHub
+
+Home
+Services
+Project
+About Us
+Blog
+Contact Us
+
+Get Started
+
+aria-label = Toggle menu
+<ion-icon name="menu-outline" class="open"></ion-icon>
+<ion-icon name="close-outline" class="close"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+InnoHub Marketing Agency
+
+We empower you to change the world
+
+InnoHub is a strategic digital comms agency for causes creating impact around the world.
+
+Get Started
+
+alt = hero banner
+
+
+
+#---------- SERVICE ----------#
+
+Empowering people in our mission
+
+Our vission is for all causes to be able to use digital comms to create positive social and environmental impact. Our commitment to mission-aligned work means we only work with people who share our values of being people-centered, ethical and driven to create change.
+
+<ion-icon name="chatbox"></ion-icon>
+
+SEO Optimization
+
+An expertise in creating confident, clear content means we can help to get your messages across.
+
+<ion-icon name="desktop"></ion-icon>
+Digital Strategy
+
+<ion-icon name="bulb"></ion-icon>
+Paid Media
+
+<ion-icon name="phone-portrait"></ion-icon>
+Social Media
+
+<ion-icon name="archive"></ion-icon>
+Video Production
+
+<ion-icon name="build"></ion-icon>
+Training
+
+
+
+#---------- PROJECT ----------#
+
+Our Recent Projects
+
+To help make this a reality we work as part of your team across time-zones, collaborating alongside you as colleagues. We listen to what you want to achieve and provide a suite of options to make that happen.
+
+alt = Designing a better cinema experience
+
+SEO Optimization
+
+Designing a better and creative experience
+
+View Details
+
+
+alt = Get recommendation and a roadmap of how to develop your digital strategy
+Digital Strategy
+
+alt = Optimising and scaling the ads for long-term success
+Paid Media
+
+alt = Searching your target audiences, design engaging and develop effective landing pages for you
+Social Media
+
+alt = creates greater brand awareness and improved engagement for your high-value content
+Video Production
+
+alt = Frequent social media, digital communications and content training
+Training
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+aria-label = Play video
+
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+
+About Us
+
+The InnoHub team is a team of digital marketing experts. Our combined experience across a range of sectors means we can confidently put together a team that excels at meeting your challenges, whatever they are.
+
+Who We Are
+
+We help the people that work for them around the world use digital tools to create and communicate positive social and environmental impact. We’re problem-solvers and solution-finders, working closely with you to achieve your ambitions. We understand the challenges you face, have decades worth of experience under our belts, and are ahead of the curve with the latest digital trends. Like you, we want to use digital comms for social good, paving the way forward to a better world.
+
+
+Our Values
+
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+People-centred: We are kind, compassionate, inclusive and human.
+
+Driven: We are ambitious experts that take initiative.
+
+Ethical: We are trustworthy, transparent and fair.
+
+Our Vission
+
+We want a world where charities and nonprofits have the support they need to tackle complex global challenges, in an ever-changing, increasingly volatile digital space. We can work as part of your team wherever you are in the world. We collaborate alongside you as colleagues, rather than at arms length and we’re there when you need us.
+
+
+#---------- CTA ----------#
+
+So What is Next?
+
+Are You Ready? Let's get to Work!
+
+Get Started
+
+
+
+#---------- BLOG ----------#
+
+Latest Articles Updated Weekly
+
+alt = How to Become a Successful Entry Level UX Designer
+
+August 06, 2023
+
+How to Become a Successful Entry Level UX Designer
+
+alt = 2022 Local SEO Success: The Year of Everywhere
+
+alt = The Guide to Running a Client Discovery Process
+
+alt = 3 Ways to Get Client Approval for Scope Changes
+
+alt = Top 21 Must-Read Blogs For Creative Agencies
+
+
+
+#---------- CONTACT ----------#
+
+Let's Contact With Us
+
+From simple questions to more complex queries about our project, we’re happy to chat
+
+aria-label = name
+placeholder = Your name*
+
+aria-label = email
+placeholder = Email address*
+
+aria-label = subject
+placeholder = Subject
+
+aria-label = phone
+placeholder = Phone number
+
+aria-label = message
+placeholder = Your message...*
+
+Accept Terms of Services and Privacy Policy
+
+Send Message
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+Mail Here
+hello@mail.com
+info@mail.com
+
+<ion-icon name="map-outline" aria-hidden="true"></ion-icon>
+
+Visit Here
+Rajpura, Punjab
+140401, INDIA
+
+<ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
+
+Call Here
++91 123 456 7890
++91 241 452 4526
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2023 All Rights Reserved by Harjot Kaur
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>

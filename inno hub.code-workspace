@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "assets/js"
+		},
+		{
+			"path": "assets/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "InnoHub",
+		"liveServer.settings.port": 5501
+	}
+}
